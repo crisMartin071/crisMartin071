@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
 </div>
-
+    
 - 👨‍💻 Actually I'm ending my last year of web develop
 - 💬 You can ask me about a problem, I'll find the solution
 - 🌱 I’m diving deeper into diferents technologies
