@@ -4,7 +4,7 @@
 </div>
 
 - 👨‍💻 Actually I'm ending my last year of web develop
-- 💬 Can you ask me about a problem, I'll get with the solution
+- 💬 You can ask me about a problem, I'll find the solution
 - 🌱 I’m diving deeper into diferents technologies
 ## 🛠 &nbsp;Tech Stack
 
