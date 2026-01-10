@@ -2,10 +2,25 @@
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
 </div>
-    
+
+<pre>
 - 👨‍💻 Actually I'm ending my last year of web develop
 - 💬 You can ask me about a problem, I'll find the solution
 - 🌱 I’m diving deeper into diferents technologies
+</pre>
+
+<br/>
+<h3 align="center">My GitHub Stadistics</h3>
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/crisMartin071">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crisMartin071&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<br/>
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 👨‍💻 Programming Languages
@@ -41,6 +56,8 @@
 
 #### 📱 My Social Media
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin&perline=14" />
+  </a>
+</p>
