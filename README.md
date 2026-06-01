@@ -7,6 +7,8 @@
 - 👨‍💻 I'm a Backend-focused developer
 - 💬 You can ask me about a problem, I'll find the solution
 - 🌱 I’m diving deeper into diferents technologies
+- 🎮 I've a lot hobbies like play videogames or watch films
+- 🌍 Always I can, I try to travel anywhere
 </pre>
 
 <br/>
@@ -27,7 +29,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,python,java" />
+    <img src="https://skillicons.dev/icons?i=python,php,js,ts,java" />
   </a>
 </p>
 
@@ -35,7 +37,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,laravel,angular,vuejs" />
   </a>
 </p>
 
@@ -50,7 +52,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,figma&perline=14" />
   </a>
 </p>
 
