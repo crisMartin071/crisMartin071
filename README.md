@@ -4,7 +4,7 @@
 </div>
 
 <pre>
-- 👨‍💻 Actually I'm ending my last year of web develop
+- 👨‍💻 I'm a Backend-focused developer
 - 💬 You can ask me about a problem, I'll find the solution
 - 🌱 I’m diving deeper into diferents technologies
 </pre>
